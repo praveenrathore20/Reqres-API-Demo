@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5636FBB1-6291-404F-80D1-98CC2E4B4EF9}|ReqResDemo.Core\\ReqResDemo.Core.csproj|e:\\novadule technologies\\work\\project\\raftlabs\\reqresdemo\\reqresdemo.core\\services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5636FBB1-6291-404F-80D1-98CC2E4B4EF9}|ReqResDemo.Core\\ReqResDemo.Core.csproj|solutionrelative:reqresdemo.core\\services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECADDEDE-F882-4B75-9A69-59741A34C993}|ReqResDemo.ConsoleApp\\ReqResDemo.ConsoleApp.csproj|e:\\novadule technologies\\work\\project\\raftlabs\\reqresdemo\\reqresdemo.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECADDEDE-F882-4B75-9A69-59741A34C993}|ReqResDemo.ConsoleApp\\ReqResDemo.ConsoleApp.csproj|solutionrelative:reqresdemo.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5636FBB1-6291-404F-80D1-98CC2E4B4EF9}|ReqResDemo.Core\\ReqResDemo.Core.csproj|e:\\novadule technologies\\work\\project\\raftlabs\\reqresdemo\\reqresdemo.core\\clients\\reqresapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5636FBB1-6291-404F-80D1-98CC2E4B4EF9}|ReqResDemo.Core\\ReqResDemo.Core.csproj|solutionrelative:reqresdemo.core\\clients\\reqresapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946DA5F5-9556-4252-9AE0-9B69CCA89BF9}|ReqResDemo.Tests\\ReqResDemo.Tests.csproj|e:\\novadule technologies\\work\\project\\raftlabs\\reqresdemo\\reqresdemo.tests\\externaluserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946DA5F5-9556-4252-9AE0-9B69CCA89BF9}|ReqResDemo.Tests\\ReqResDemo.Tests.csproj|solutionrelative:reqresdemo.tests\\externaluserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946DA5F5-9556-4252-9AE0-9B69CCA89BF9}|ReqResDemo.Tests\\ReqResDemo.Tests.csproj|e:\\novadule technologies\\work\\project\\raftlabs\\reqresdemo\\reqresdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946DA5F5-9556-4252-9AE0-9B69CCA89BF9}|ReqResDemo.Tests\\ReqResDemo.Tests.csproj|solutionrelative:reqresdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReqResApiClient.cs",
+              "DocumentMoniker": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.Core\\Clients\\ReqResApiClient.cs",
+              "RelativeDocumentMoniker": "ReqResDemo.Core\\Clients\\ReqResApiClient.cs",
+              "ToolTip": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.Core\\Clients\\ReqResApiClient.cs",
+              "RelativeToolTip": "ReqResDemo.Core\\Clients\\ReqResApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:41:04.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ReqResDemo.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ReqResDemo.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:39:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExternalUserServiceTests.cs",
+              "DocumentMoniker": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.Tests\\ExternalUserServiceTests.cs",
+              "RelativeDocumentMoniker": "ReqResDemo.Tests\\ExternalUserServiceTests.cs",
+              "ToolTip": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.Tests\\ExternalUserServiceTests.cs",
+              "RelativeToolTip": "ReqResDemo.Tests\\ExternalUserServiceTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:39:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExternalUserService.cs",
+              "DocumentMoniker": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.Core\\Services\\ExternalUserService.cs",
+              "RelativeDocumentMoniker": "ReqResDemo.Core\\Services\\ExternalUserService.cs",
+              "ToolTip": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.Core\\Services\\ExternalUserService.cs",
+              "RelativeToolTip": "ReqResDemo.Core\\Services\\ExternalUserService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwC8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:39:12.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ReqResDemo.ConsoleApp\\Program.cs",
+              "ToolTip": "E:\\NOVADULE TECHNOLOGIES\\WORK\\PROJECT\\Raftlabs\\ReqResDemo\\ReqResDemo.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ReqResDemo.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:39:12.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
